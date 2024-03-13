@@ -1,0 +1,13 @@
+body{
+    margin:0;
+    font-size:1.25rem;
+    color:white;
+    display:grid;
+    gap:2rem;
+
+}
+nav{
+    position:sticky;
+    top:0;
+    max-height: 100vh;
+}
